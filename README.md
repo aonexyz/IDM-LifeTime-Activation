@@ -1,7 +1,7 @@
 # IDM life Time Activation Script
 
 # Disclaimer
-I am not the original author of this script. Before the main author created the official GitHub repository, users could only download the script from the official forum. I created this repository to make the process easier for users and to give proper credit to the original author. Additionally, the script had several critical bugs and compatibility issues that prevented it from running properly—I fixed those issues, and the script is now stable and fully functional.
+I am not the original author of this script. Before the main author created the official GitHub repository, users could only download the script from the official forum. I created this repository to make the process easier for users and to give proper credit to the original author. Additionally, the script had several critical bugs and compatibility issues that prevented it from running properly, I fixed those issues, and the script is now stable and fully functional.
 
 # Features
 * IDM freeze trial and activation with registry key lock method
