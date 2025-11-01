@@ -14,9 +14,6 @@ I am not the original author of this script. Before the main author created the 
 First fresh install [Internet Download Manager](https://www.internetdownloadmanager.com/). Make sure previous cracks/patches are removed/uninstalled if there are any.
 After that follow the below steps to activate it.
 
-# Note
-* 📌 The activation option is currently not working in the script, use the Freeze trial option to lock the 30-day trial period for the lifetime.
-
 # How to run 
 * Download the file IAS.cmd.
 * Open File Explorer, go to the Downloads folder, and find IAS.cmd.
