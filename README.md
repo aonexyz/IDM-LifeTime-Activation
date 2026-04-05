@@ -95,7 +95,6 @@ And thanks to the IAS users for their interest, feedback, and assistance.
 
 # Buy me a coffee ☕
 Love the bot? Wanna fuel more WAGMI vibes? Drop some crypto love to keep the charts lit! 🙌
-- **SUI**: `0x6e20d8f6c15aeb42887608eec65b29385f21fa21cfd23302c54fabd813d8cd38`
 - **USDT (TRC20)**: `TMoPwVpeC8A2yTc5qotKj8gVXaGTqQwc3L`
 - **BNB (BEP20)**: `0x068ff5934e0c30d8763012a6faa0033e7fdcc455`
 - **Binance UID**:`899350787`
