@@ -50,31 +50,6 @@ After that follow the below steps to activate it.
 # How does it work?
 * IDM stores the data related to trial and activation across various registry keys. Some of these keys are locked to protect them from tampering and data is stored in a pattern to track the fake serial issue and the remaining trial days. To activate it, the script here simply generates those registry keys by triggering a few downloads in IDM, identifies those registry keys, and locks them so IDM can’t edit and view them. That way IDM cannot show the warning that it’s activated with a fake serial key.
 
-# Changelog
-## v1.2
-* Added back activation option with a randomized name, email, and key in registration details along with a warning that it’s not working for some users, the recommended option is to use Freeze trial.
-## v1.1
-* IDM update 6.42b3 has started showing fake serial popups with IAS activation, due to this we have removed the activation option and replaced it with the Freeze trial option to lock the 30-day trial period for the lifetime.
-* Now the script will disable quick-edit in CMD windows using Powershell instead of editing the registry, thanks to @abbodi1406 for the code and @awuctl for the idea.
-* Code to relaunch script with conhost.exe to avoid terminal app is now merged in quick-edit disable code, thanks to @abbodi1406.
-Updated full code from [WindowsAddict ](https://massgrave.dev/idm-activation-script)
-## v1.0
-* Added the code to relaunch the script with conhost.exe if the script is running from the terminal app.
-* Fixed an issue in getting the current user account SID.
-## v0.9
-* Fixed an issue where the script can not activate and reset IDM in non-admin user accounts.
-* Fixed an issue where the script incorrectly shows that IDM is activated.
-* Fixed an issue where a fake serial pop-up may appear. The script will also show the info to run the activation option again without using the reset option.
-* IDM registry scanning and locking code is now written in Powershell.
-* The script update checker code is added to the script.
-* The script will now disable quick edit mode temporarily because users often click inside the script window and it pauses the script.
-* The script will back up the CLSISD registry keys before performing operations on them.
-* Many error checks are added to better identify the issues.
-## v0.8
-* Move the project to [Github](https://github.com/aonexyz/IDM-LifeTime-Activation)
-* Minor bug fixes
-* Add info to inform users that empty registry keys are being deleted when the script deletes a lot of them
-
 # Screenshots
 ![IAS](https://github.com/lstprjct/IDM-Activation-Script/assets/88411318/fafdb481-c497-464f-b1e6-9a4254eaf880)
 
