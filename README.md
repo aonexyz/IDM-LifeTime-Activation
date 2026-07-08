@@ -55,19 +55,6 @@ After that follow the below steps to activate it.
 
 ![IAS_Freeze_Trial](https://github.com/lstprjct/IDM-Activation-Script/assets/88411318/76b36582-8cf4-4d1e-870f-6e8e57c80a87)
 
-# Credits
-
-|                                             |                                                                                                                                                                                                                                        |
-|-------------------|-----------------------------------------------------|
-| Dukun Cabul                                 | Original researcher of this IDM trial reset and activation logic, made an Autoit tool for these methods, [IDM-AIO_2020_Final](https://nsaneforums.com/topic/371047-discussion-internet-download-manager-fixes/page/8/#comment-1632062) |
-| AveYo aka BAU                               | [reg_own lean and mean snippet](https://pastebin.com/XTPt0JSC)                                                                                                                                                                         |
-| [abbodi1406](https://github.com/abbodi1406) | Help in coding                                                                                                                                                                                                                         |
-| WindowsAddict                               | Original [IAS](https://github.com/WindowsAddict/IDM-Activation-Script) Author                                                                                                                                                                                                                             |
-
-And thanks to the IAS users for their interest, feedback, and assistance.
-
-------------------------------------------------------------------------
-
 # Buy me a coffee ☕
 Love the bot? Wanna fuel more WAGMI vibes? Drop some crypto love to keep the charts lit! 🙌
 - **USDT (TRC20)**: `TMoPwVpeC8A2yTc5qotKj8gVXaGTqQwc3L`
