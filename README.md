@@ -1,3 +1,5 @@
+
+
 # IDM life Time Activation Script
 
 # Features
@@ -53,19 +55,16 @@ After that follow the below steps to activate it.
 # Screenshots
 ![IAS](https://github.com/lstprjct/IDM-Activation-Script/assets/88411318/fafdb481-c497-464f-b1e6-9a4254eaf880)
 
-![IAS_Freeze_Trial](https://github.com/lstprjct/IDM-Activation-Script/assets/88411318/76b36582-8cf4-4d1e-870f-6e8e57c80a87)
+![IAS_Freeze_Trial](https://github.com/lstprjct/IDM-Activation-Script/assets/88411318/76b36882-8cf4-4d1e-870f-6e8e57c80a87)
 
 # Buy me a coffee ☕
-Love the bot? Wanna fuel more WAGMI vibes? Drop some crypto love to keep the charts lit! 🙌
+Love the script? Wanna support ongoing development? Drop some crypto love to keep the project updated! 🙌
 - **USDT (TRC20)**: `TMoPwVpeC8A2yTc5qotKj8gVXaGTqQwc3L`
 - **BNB (BEP20)**: `0x068ff5934e0c30d8763012a6faa0033e7fdcc455`
 - **Binance UID**:`899350787`
 
-Every bit helps me grind harder and keep this bot stacking bags! 😎
+Every bit helps me grind harder and keep this script maintained! 😎
 ---
 
 # 🪪 License
 MIT © 2025
-
-
-
